@@ -1,0 +1,14 @@
+# Ignorar directorios generados por Containerlab
+clab-*/
+
+# Ignorar archivos temporales de configuración y logs
+*.log
+*.tmp
+
+# Archivos de diseño (opcional si no los quieres subir)
+*.drawio
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+clab-*/
